@@ -39,6 +39,10 @@ body {
     position: absolute;
     top: 20%;
     left: 30%;
+    widtH: 200px;
+    height: 200px;
+    display: flex;
+    align-items: center;
 }
 
 .heading-section p {
@@ -51,4 +55,9 @@ body {
 .heading-section h1 {
     font-family: 'NorseBold', sans-serif;
     color: white;
+}
+
+.logo {
+    width: 100px;
+    height: 130px;
 }
