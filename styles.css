@@ -55,6 +55,7 @@ body {
 .heading-section h1 {
     font-family: 'NorseBold', sans-serif;
     color: white;
+    font-size: 5em;
 }
 
 .logo {
